@@ -1,0 +1,7 @@
+Giving the following text: "(%%%)" 
+
+Can you describe the acronyms and extract the most important concepts and give a 100 words explaination for each of them respecting these boundaries: 
+- the format of the response need to be "word: explaination |"  where '|' is the delimiter ad the end of each couple
+- minimum 7 concepts
+- omit every other text
+- strongly related to the context of the sentence
