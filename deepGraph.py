@@ -8,7 +8,7 @@ import openai
 import re
 
 # Set up the OpenAI API client
-openai.api_key = "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"
+openai.api_key = "<your key>"
 
 def read_text_file(filepath):
     try:
